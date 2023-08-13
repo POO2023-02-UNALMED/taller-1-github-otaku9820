@@ -2,4 +2,4 @@ Andrés Guido
 20 años
 Aprender conocimientos solidos en poo.
 Porque ahora no estamos agregando una carpeta vacía.
-porque nos da un conflicto de fusión, y el github no puede distinguir como guardar ambos cambios en la misma sección y nos dará problemas
+porque nos da un conflicto de fusión, y el github no puede distinguir como guardar ambos cambios en la misma sección, cosa que  nos dará problemas; ocasionando confusión.
